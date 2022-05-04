@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;EACX,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,WAAW,EAAE,uBAAuB;EACpC,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,aAAa;CACxB",
+    "sources": [
+        "DepositStatus.module.scss"
+    ],
+    "names": [],
+    "file": "DepositStatus.module.css"
+}

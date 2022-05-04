@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,MAAM;EACd,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,YAAY,EAAC,IAAI;EACjB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,SAAS,EAAC,KAAK;CAClB",
+    "sources": [
+        "DepositsPane.module.scss"
+    ],
+    "names": [],
+    "file": "DepositsPane.module.css"
+}

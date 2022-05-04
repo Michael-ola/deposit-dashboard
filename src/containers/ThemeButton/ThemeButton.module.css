@@ -1,0 +1,36 @@
+.container {
+  width: 40px;
+  border-radius: 13px;
+  height: 20px;
+  position: fixed;
+  bottom: 20px;
+  left: 10%;
+  z-index: 3;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+@media (max-width: 1055px) {
+  .container {
+    position: absolute;
+    left: 65%;
+    top: 3.5%;
+  }
+}
+
+.indicator {
+  display: inline-block;
+  margin-left: 3.7px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+/*# sourceMappingURL=ThemeButton.module.css.map */

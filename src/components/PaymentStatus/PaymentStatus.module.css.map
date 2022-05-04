@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,aAAa,EAAE,GAAG;CACrB",
+    "sources": [
+        "PaymentStatus.module.scss"
+    ],
+    "names": [],
+    "file": "PaymentStatus.module.css"
+}

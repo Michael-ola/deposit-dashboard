@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,aAAa,EAAC,GAAG;EACjB,UAAU,EAAE,OAAO;EACnB,KAAK,EAAE,IAAI;EACX,SAAS,EAAC,GAAG;CAChB",
+    "sources": [
+        "DepositCounter.module.scss"
+    ],
+    "names": [],
+    "file": "DepositCounter.module.css"
+}

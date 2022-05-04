@@ -1,0 +1,20 @@
+.container {
+    height: 33px;
+    width: 10%;
+    min-width: 151.4px;
+    //min-width: 140px;
+    margin-top: 30px;
+    margin-left: 40%;
+    color: #fff;
+    background: linear-gradient(122deg, rgba(128,74,216,1) 0%, rgba(98,75,217,1) 100%);
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size:0.7em;
+    font-weight:bold;
+    transition: all 0.3s linear;
+    &:hover{
+        transform: scale(1.1);
+    }
+}

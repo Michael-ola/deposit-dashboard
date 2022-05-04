@@ -1,0 +1,29 @@
+.container {
+  height: 33px;
+  width: 10%;
+  min-width: 151.4px;
+  margin-top: 30px;
+  margin-left: 40%;
+  color: #fff;
+  background: linear-gradient(122deg, #804ad8 0%, #624bd9 100%);
+  border-radius: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-size: 0.7em;
+  font-weight: bold;
+  -webkit-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+}
+
+.container:hover {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+/*# sourceMappingURL=DepositsListButton.module.css.map */
