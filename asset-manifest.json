@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/deposit-dashboard/static/css/main.a490dde7.css",
-    "main.js": "/deposit-dashboard/static/js/main.2860a2a4.js",
+    "main.css": "/deposit-dashboard/static/css/main.9436b293.css",
+    "main.js": "/deposit-dashboard/static/js/main.0357c2b1.js",
     "static/js/787.545aecf5.chunk.js": "/deposit-dashboard/static/js/787.545aecf5.chunk.js",
     "static/media/photo.jpg": "/deposit-dashboard/static/media/photo.82ba591e351547c81f30.jpg",
     "static/media/images2.jpg": "/deposit-dashboard/static/media/images2.0205b1645394c4dc4eb2.jpg",
     "static/media/images3.jpg": "/deposit-dashboard/static/media/images3.a70792652cbe9901bcee.jpg",
     "index.html": "/deposit-dashboard/index.html",
-    "main.a490dde7.css.map": "/deposit-dashboard/static/css/main.a490dde7.css.map",
-    "main.2860a2a4.js.map": "/deposit-dashboard/static/js/main.2860a2a4.js.map",
+    "main.9436b293.css.map": "/deposit-dashboard/static/css/main.9436b293.css.map",
+    "main.0357c2b1.js.map": "/deposit-dashboard/static/js/main.0357c2b1.js.map",
     "787.545aecf5.chunk.js.map": "/deposit-dashboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a490dde7.css",
-    "static/js/main.2860a2a4.js"
+    "static/css/main.9436b293.css",
+    "static/js/main.0357c2b1.js"
   ]
 }
